@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+    height: 300em;
+    padding: 2em;
+}
+.bottomspace{
+    margin-bottom: 2em;
+}
+.leftspace{
+    margin-left: 5em;
+}
+.topspace{
+    margin-top: 10em;
+}
+.mr3{
+    margin-right: 3em;
+}
+.m{
+    display:flex;
+justify-content:space-between;
+}
+.ml2{
+    margin-left: 4em;
+}
+.mb3{
+    margin-bottom: 3em;
+}
+.whitecolor{
+    color: white;
+}
